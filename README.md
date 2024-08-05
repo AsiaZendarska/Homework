@@ -18,23 +18,21 @@ Notatniki:
 - `exercises_Python1.ipynb`
 - `exercises_Python2.ipynb`
 
-### `numpy`
+### `Numpy`
 
-Gałąź `numpy` zawiera ćwiczenia związane z biblioteką NumPy, która jest niezbędna do obliczeń numerycznych w Pythonie. Omówione tematy to m.in.:
+Gałąź `Numpy` zawiera ćwiczenia związane z biblioteką NumPy, która jest niezbędna do obliczeń numerycznych w Pythonie. Omówione tematy to m.in.:
 
 - Tworzenie i manipulacja tablicami
 - Operacje matematyczne na tablicach
 
 Notatnik:
-- `exercises_numpy.ipynb`
+- `exercises_Numpy.ipynb`
 
-### `classes`
+### `Classes`
 
-W gałęzi `classes` znajdują się ćwiczenia dotyczące programowania obiektowego (OOP) w Pythonie. Te notatniki obejmują:
+W gałęzi `Classes` znajdują się ćwiczenia dotyczące programowania obiektowego (OOP) w Pythonie. Te notatniki obejmują:
 
 - Definiowanie i używanie klas
-- Dziedziczenie i polimorfizm
-- Enkapsulacja i abstrakcja
 
 Notatnik:
-- `exercises_classes.ipynb`
+- `exercises_Classes.ipynb`
