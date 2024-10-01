@@ -36,3 +36,11 @@ W gałęzi `Classes` znajdują się ćwiczenia dotyczące programowania obiektow
 
 Notatnik:
 - `exercises_Classes.ipynb`
+
+### Sql
+
+Gałąź Sql zawiera pliki z zapytaniami SQL, które dotyczą różnych operacji na bazach danych. Pliki SQL pomagają w nauce podstawowych operacji takich jak tworzenie tabel, wstawianie danych, zapytania do bazy oraz analizy danych.
+
+Notatnik:
+- `nba.sql` - Zawiera zapytania dotyczące analizy danych NBA.
+- `titanic.sql` - Zawiera zapytania dotyczące analizy danych pasażerów Titanica.
