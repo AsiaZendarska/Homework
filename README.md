@@ -39,7 +39,7 @@ Notatnik:
 
 ### `Sql`
 
-Gałąź Sql zawiera pliki z zapytaniami SQL, które dotyczą różnych operacji na bazach danych. Pliki SQL pomagają w nauce podstawowych operacji takich jak tworzenie tabel, wstawianie danych, zapytania do bazy oraz analizy danych.
+Gałąź `Sql` zawiera pliki z zapytaniami SQL, które dotyczą różnych operacji na bazach danych. Pliki SQL pomagają w nauce podstawowych operacji takich jak tworzenie tabel, wstawianie danych, zapytania do bazy oraz analizy danych.
 
 Notatnik:
 - `nba.sql` - Zawiera zapytania dotyczące analizy danych NBA.
